@@ -21,10 +21,14 @@ Used **cat** command to merge North and East text files into one file *location-
 # Step-7 
 Placed the received coordinate on google maps and got **Amrita Amritapuri campus, Computer lab**  
 
-**TO PUSH ALL THIS WORK ONTO MY REPO**
- I use
- *git add*
+-----------------------------------------------------------
 
- *git commit*
+**TO PUSH ALL THIS WORK ONTO MY REPO**
+
+ I use these commands
+
+ *git add along with the file modified*
+
+ *git commit -m*
 
  *git push*
