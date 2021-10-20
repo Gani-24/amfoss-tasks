@@ -5,7 +5,7 @@
 
 # Step-2
  Here i used **cd** command to go into the directory and created *North* directory using **mkdir** 
-  then i used **git add** command to add the files.
+  then i used **touch** and **git add** command to add the files.
   After Creating all the files i used **cat** command to merge the files in to one new file and the used **cp** ../ command 
   to copy the new file to *Coordinate-Location* directory.
 
