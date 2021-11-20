@@ -1,9 +1,10 @@
 # INTROSPECTION
 ### Why must we choose you?
+I really got interested in coding recently and as i have told before, i knew the basics of coding from 10th and 11th, but i really wanted improve and i believe amfoss will be great for me to develop my skills and increase my knowledge in various things, and i think amfoss can help me achieve it,and i feel amfoss can think about choosing me from my interest.😊  
 
 ### What is your plan for the next 6 months?
-
+Honestly, first i want to catch up with some of the academic work as i want to maintain a good score and then it wont matter if i get in the club or not, the tasks really helped me to develop new intersts, i wanna go through all the cs50 lectures once again to understand perfectly and i really wanna learn more about flutter and hopefully learn atleast the basics of flutter and app development by the end of the next 6 months😁 and obviously i wanna improve my coding knowledge, cause right now i can tell honestly, i am not that great(but thats my current situation🥲,and by the end of the next 6 months i really wanna improve myself in coding greatly.)
 ## How would you contribute back to the club?
-
+I will really give out my best i can to the club and whatever the club needs me to do, and try to make great progress with the club and continue developing myself and giving back to the club in every way ☺😇.
 ## Do you have any feedback for the selection process?
-
+The selection process was excellent, i mean to say in simple words, the tasks were not too easy or too hard, it was just perfect.The tasks personally helped me develop new interests and i think the selection process in this way was excelent,cause people who lost interest dropped out.I think the tasks were made in such a way to explore many topics and it was amazing.I personally wanna thank the people who created these tasks as it helped me develop new interests that i didnt know i had until i was exposed to it. Also the mentors were amazing, they would always get back to our doubts asap and were very friendly😎,I want to thank them for solving my doubts at any time, no matter how silly the doubt would be😁.
