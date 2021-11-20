@@ -33,4 +33,4 @@ My name is Sai Ganesh K, I am from Bangalore,Karnataka.
 I was very exicited to apply to Amfoss Club, cause i had read about the club in many social media sites while researching about Amrita Vishwa Vidyapeetam,Amritapuri.
 I became intrigued about the club after learning how clubs work in Amrita and especially Amfoss.
 Coming to my interests i recently developed an interest to coding, i actually had coding in my 10th ans 11th classes, but due to discontinuity i have lost touch with it, just remember the basics, but i want to learn and develop.
-Apart from this I also like watching Anime,Tv shows,I used to practice piano but occasionaly play it now,i like reading books(novels)😜 and if i get interested in a thing i will get deep into it, until i am satisfied🤪.
+Apart from this I also like watching Anime,Tv shows,I used to practice piano but occasionaly play it now,i like reading books(novels)😜 and if i get interested in a thing i will try to reach to the ends of it upto my satisfaction.
